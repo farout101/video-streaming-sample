@@ -58,6 +58,3 @@ Returns a welcome message.
 - The overlay image must exist at `assets/overlay.jpg` before uploading videos.
 - Processed videos are saved as `processed_videos/final_<original_filename>`.
 - The code is designed for stability and compatibility, using a simplified FFmpeg filter chain.
-
-## License
-MIT License
